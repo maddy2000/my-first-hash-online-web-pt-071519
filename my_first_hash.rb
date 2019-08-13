@@ -1,4 +1,4 @@
-def my_hash {"name" => "madelyn", "race" => "african"}
+def my_hash {"name"=> "madelyn", "race"=> "african"}
     my_hash ["name"]
 end
 
