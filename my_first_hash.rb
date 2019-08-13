@@ -2,8 +2,7 @@ def my_hash
   your_hash = {"name"=> "madelyn", "race"=> "african"}
     your_hash ["name"]
 end
-end
-end  
+
 end
 
 
